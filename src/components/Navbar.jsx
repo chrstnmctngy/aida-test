@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
-import Logo from '../assets/aida-logo.png';
+import Logo from '../assets/AIDA-Logo.png';
 import DashboardLogo from '../assets/navbar/dashboard-line.svg';
 import DashboardLogoGreen from '../assets/navbar/dashboard-line-green.svg';
 import ReportLogo from '../assets/navbar/report-line.svg';

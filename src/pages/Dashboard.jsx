@@ -7,8 +7,8 @@ import TotalReports from '../assets/dashboard/total-report-icon.svg';
 import TotalUsers from '../assets/dashboard/total-user-icon.svg';
 import TrendDown from '../assets/dashboard/trending-down.svg';
 import TrendUp from '../assets/dashboard/trending-up.svg';
-import CarCrashIcon from '../assets/dashboard/car.svg';
-import FireIcon from '../assets/dashboard/fire.svg';
+import CarCrashIcon from '../assets/dashboard/Car.svg';
+import FireIcon from '../assets/dashboard/Fire.svg';
 import Image from '../assets/dashboard/accidentimage.png';
 
 const Dashboard = () => {
